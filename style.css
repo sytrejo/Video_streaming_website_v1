@@ -16,3 +16,8 @@ ul li{
     text-align: center;
     padding-right: 10px;
 }
+
+.top_videos_box{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+}
